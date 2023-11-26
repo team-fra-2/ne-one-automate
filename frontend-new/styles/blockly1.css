@@ -1,0 +1,7 @@
+.fill-height {
+    height: calc(78vh);
+}
+
+svg[display="none"] {
+    display: none;
+}
