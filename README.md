@@ -1,8 +1,9 @@
 <p align="center">
-  <img width="250" height="250" src="/frontend-new/public/ne-one-automate_logo.png">
+<img src="./frontend-new/public/ne-one-automate_logo.png" alt="NE:ONE Automate" width="200"/><br/>
+✨ NE:ONE automate ✨
 </p>
 
-✨ NE:ONE automate ✨
+
 
 
 
